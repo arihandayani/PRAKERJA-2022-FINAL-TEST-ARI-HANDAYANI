@@ -1,5 +1,10 @@
+// function
+print = (message) =>
+}
+
 app = () => {
-    // code here 
+    // code here  
+    print ( 'Hello World');
 } 
 app ()   ;
  
