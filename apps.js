@@ -1,5 +1,6 @@
 // function
-print = (message) =>
+print = (message) => {
+    console.log(message)
 }
 
 app = () => {
