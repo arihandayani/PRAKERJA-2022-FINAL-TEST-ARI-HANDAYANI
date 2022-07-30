@@ -1,6 +1,11 @@
+// function
+print = (message) => {
+    console.log(message)
+}
+
 app = () => {
-    // code here 
-    console.log("hello world")
+    // code here  
+    print ( 'Hello World');
 } 
 app ()   ;
  
